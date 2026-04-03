@@ -1,1 +1,1 @@
-# manufacturing-process-analysis
+This project explores manufacturing machine operating data across three production machines to identify patterns in operating conditions, batch variability, and quality outcomes. Using exploratory data analysis and unsupervised clustering, the analysis surfaces actionable insights about machine performance consistency and supplier relationships — the kind of questions that matter on a real production floor.
