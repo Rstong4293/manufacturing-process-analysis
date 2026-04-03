@@ -79,7 +79,6 @@ This project explores manufacturing machine operating data across three producti
 ---
 
 ## How to Run
-
 ```bash
 # Clone the repository
 git clone https://github.com/regis-stong/manufacturing-process-analysis.git
@@ -103,3 +102,5 @@ jupyter notebook manufacturing_eda_clustering.ipynb
 10 years of experience in quality systems, laboratory analytics, and regulated manufacturing environments across pharma, food safety, and industrial operations. This project reflects my interest in applying data science methods to the kinds of operational problems I've worked with directly.
 
 [LinkedIn](https://www.linkedin.com/in/regis-stong-0573a8266) | [GitHub](https://github.com/regis-stong)
+
+
