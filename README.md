@@ -1,3 +1,1 @@
-This project explores manufacturing machine operating data across three production machines to identify patterns in operating conditions, batch variability, and quality outcomes. Using exploratory data analysis and unsupervised clustering, the analysis surfaces actionable insights about machine performance consistency and supplier relationships — the kind of questions that matter on a real production floor.
-
-Domain context: Drawing on a background in regulated manufacturing and quality systems, this analysis approaches the data not just as a modeling exercise but as a real operations problem: where are the machines behaving differently, and what does that tell us about process control?
+EDA and KMeans clustering on manufacturing machine operating data — exploring process variability across machines, batches, and suppliers
